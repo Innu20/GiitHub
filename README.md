@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm InnaraHayat,,</h1>
 <h3 align="center">A passionate frontend Data Scientist from Pakistan</h3>
-<img align='right'alt''>
+<img align='right'alt'' src='https://developer.blender.org/docs/images/Asset_browser-pose_library-use_from_viewport.png'>
 - 🔭 I’m currently working on [DataMining,MachineLearning,Mysql,tableaoTableau,Mysql,](GitHub)
 
 - 🌱 I’m currently learning **Numpy,Python,DataAnalysis,Libaries,,**
